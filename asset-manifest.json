@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.080f0b18.css",
-    "main.js": "/static/js/main.0e6d7863.js",
-    "index.html": "/index.html",
-    "main.080f0b18.css.map": "/static/css/main.080f0b18.css.map",
-    "main.0e6d7863.js.map": "/static/js/main.0e6d7863.js.map"
+    "main.css": "/studious-succotash/static/css/main.080f0b18.css",
+    "main.js": "/studious-succotash/static/js/main.67cb7b45.js",
+    "index.html": "/studious-succotash/index.html",
+    "main.080f0b18.css.map": "/studious-succotash/static/css/main.080f0b18.css.map",
+    "main.67cb7b45.js.map": "/studious-succotash/static/js/main.67cb7b45.js.map"
   },
   "entrypoints": [
     "static/css/main.080f0b18.css",
-    "static/js/main.0e6d7863.js"
+    "static/js/main.67cb7b45.js"
   ]
 }
