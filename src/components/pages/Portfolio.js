@@ -3,25 +3,6 @@ import Project from './Project';
 
 const projects = [
     {
-        id: 1,
-        name: "",
-        img:"" ,
-        repoURL: "",
-        deployURL: ""
-    },
-    {
-        id: 2,
-        name: "",
-        img: ,
-        repoURL: "",
-        deployURL: ""
-    },
-    {
-        id: 3,
-        name: "",
-        img: noteTakerImg,
-        repoURL: "",
-        deployURL: "h"
     },
 ]
 
